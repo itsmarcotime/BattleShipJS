@@ -16,7 +16,7 @@ Do you like battleship?? I know I do. How about test out this battleship game I 
 This version of the application was built using HTML, CSS, & JavaScript.
 
 ## Contribution
-Find my contact info if you have anymore good ideas for this game!
+Find my contact info below or contact me at mmata3309@gmail.com if you have anymore good ideas for this game!
 
 ## Usage
 Live website: https://itsmarcotime.github.io/BattleShipJS/

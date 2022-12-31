@@ -27,4 +27,4 @@ Questions? <br />
 mmata3309@gmail.com
 
 ## Preview
-![battleShipImg](https://user-images.githubusercontent.com/101440634/210126329-c3f5b6d5-77ef-41dc-aeb4-ab3f1be08a63.png)
+![JS BattleShip!](https://user-images.githubusercontent.com/101440634/210126415-0f73d045-e635-434f-994c-fa48593c53d1.png)
